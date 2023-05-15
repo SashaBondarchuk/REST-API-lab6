@@ -33,5 +33,3 @@ const onShowButtonClick = (event) => {
 refs.inputEl.addEventListener("focus", onInputFocus);
 refs.inputEl.addEventListener("blur", onInputBlur);
 refs.showButtonEL.addEventListener("click", onShowButtonClick);
-
-// npx parcel src/index.html

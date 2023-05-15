@@ -584,7 +584,7 @@ const onShowButtonClick = (event)=>{
 };
 refs.inputEl.addEventListener("focus", onInputFocus);
 refs.inputEl.addEventListener("blur", onInputBlur);
-refs.showButtonEL.addEventListener("click", onShowButtonClick); // npx parcel src/index.html
+refs.showButtonEL.addEventListener("click", onShowButtonClick);
 
 },{"moment":"jwcsj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"jwcsj":[function(require,module,exports) {
 //! moment.js
